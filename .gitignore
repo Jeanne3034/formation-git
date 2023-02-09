@@ -1,3 +1,7 @@
+# data
+data/
+scripts/script2.R
+
 # History files
 .Rhistory
 .Rapp.history
@@ -37,3 +41,8 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# PDF, HTML
+*.pdf
+*.html
+*.Rhtml
