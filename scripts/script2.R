@@ -1,0 +1,1 @@
+couleurs <- c("bleu", "jaune")
